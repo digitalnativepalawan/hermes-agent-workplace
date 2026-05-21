@@ -136,7 +136,7 @@ export function AdminTrigger() {
 
               {/* Image previews */}
               <div className="grid gap-4 sm:grid-cols-3">
-                [
+                {[
                   { label: 'Interface Preview', key: 'interfacePreview' },
                   { label: 'User-Flow Diagram', key: 'userFlowDiagram' },
                   { label: 'Layout Prototype', key: 'layoutPrototype' },
