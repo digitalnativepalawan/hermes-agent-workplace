@@ -177,7 +177,7 @@ export function AdminTrigger() {
                       <span className="text-xs text-muted">
                         ({t.status === 'done' ? 'Done' : 'To-do'})
                       </span>
-                    >
+                    </label>
                   ))}
                 </div>
               </div>
